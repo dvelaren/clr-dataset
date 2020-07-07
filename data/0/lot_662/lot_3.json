@@ -1,0 +1,20 @@
+{
+    "plant_2": "data/1152448911/1/21122018140000/lot_3/plant_2.JPG",
+    "ph": 8.27,
+    "soil_temperature": 23.5,
+    "re": "data/1152448911/1/21122018140000/lot_3/re.JPG",
+    "soil_moisture": 33.7,
+    "rgn": "data/1152448911/1/21122018140000/lot_3/rgn.JPG",
+    "timestamp": "21122018190000",
+    "owner_id": 1152448911,
+    "illuminance": 4687.0,
+    "rotary_platforms_angle": 60.0,
+    "plant_1": "data/1152448911/1/21122018140000/lot_3/plant_1.JPG",
+    "plant_3": "data/1152448911/1/21122018140000/lot_3/plant_3.JPG",
+    "lot_number": 3,
+    "rotary_platform_extensions_state": 0.0,
+    "env_temperature": 29.0,
+    "plant_4": "data/1152448911/1/21122018140000/lot_3/plant_4.JPG",
+    "env_humidity": 62.0,
+    "farm_id": 1
+}

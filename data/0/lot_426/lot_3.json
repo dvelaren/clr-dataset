@@ -1,0 +1,14 @@
+{
+    "illuminance": 89.0,
+    "owner_id": 1152448911,
+    "lot_number": 3,
+    "ph": 8.2,
+    "timestamp": "14122018020002",
+    "soil_moisture": 46.15,
+    "rotary_platforms_angle": 60.0,
+    "env_temperature": 22.0,
+    "env_humidity": 99.0,
+    "farm_id": 1,
+    "soil_temperature": 23.25,
+    "rotary_platform_extensions_state": 0.0
+}
