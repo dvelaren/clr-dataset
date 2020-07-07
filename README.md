@@ -14,4 +14,4 @@ Inside each tagged folder, there are multiple folders with the name `lot_#` corr
 - `rgb_images`: folder containing the RGB images of the corresponding plants.
 - `lot_#.json`: file containing all the sensor information from the `#` lot.
 - `re.jpg`: Multispectral Camera with Red Edge filter picture of the corresponding lot.
-- `rgn.jpg`: Multispectral Camera with Red+Green+NIR picture of the corresponding lot
+- `rgn.jpg`: Multispectral Camera with Red+Green+NIR picture of the corresponding lot.
